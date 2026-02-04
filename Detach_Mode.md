@@ -1,0 +1,1 @@
+docker run -d image_name bash --> This command runs a Docker container in detached mode, meaning it runs in the background. The `-d` flag stands for "detached". The container will execute the `bash` command, allowing you to interact with the container's shell if needed.
